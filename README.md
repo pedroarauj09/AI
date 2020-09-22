@@ -1,2 +1,2 @@
-# IA
-Práticas de Inteligência Artificial
+# AI
+Basics doings with Artificial Intelligence 
